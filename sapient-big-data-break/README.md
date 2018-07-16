@@ -1,6 +1,6 @@
 # Solution Code for Analytics Vidhya - Big Break in Big Data Hackathon
 
-One Paragraph of project description goes here
+Help an energy distribution company to generate alerts of power consumption by building a pipeline that can process streaming data. The dataset is generated from a Smart Plugs deployed in the households where the distribution of electricity is being done.
 
 ## Problem statement:
 **Building a data pipeline:** Build a data pipeline to stream power consumption/load data using kafka, you may use any processing system of your choice to ingest the data.
